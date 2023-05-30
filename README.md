@@ -20,7 +20,7 @@
 
 ## Features
 
-- Lib para construção dos componentes: [Native Base](https://nativebase.io/).
+:white_check_mark: Lib para construção dos componentes: [Native Base](https://nativebase.io/).
 
 <!-- Installation -->
 
@@ -149,7 +149,6 @@ eas build -p android --profile preview
 ```
 
 O Link da Build aparecerão no terminal.
-`.
 
 ### Criando variáveis no arquivo .env
 
