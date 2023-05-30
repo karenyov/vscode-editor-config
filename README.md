@@ -151,7 +151,7 @@ eas build -p android --profile preview
 O Link da Build aparecerão no terminal.
 `.
 
-### Criando variÃ¡veis no arquivo .env
+### Criando variáveis no arquivo .env
 
 > https://blog.logrocket.com/understanding-react-native-env-variables/#what-node-env
 > Ao Criar uma nova variável no arquivo, serÃ¡ preciso definir a tipagem em: `/src/@types/env.d.ts`.
