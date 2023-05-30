@@ -164,7 +164,7 @@ Ao Criar uma nova rota, serÃ¡ preciso definir a tipagem em: `/src/@types/navig
 
 #### Problemas build, ícones etc.
 
-Ã‰ necessÃ¡rio deletar a pasta `./android` e rodar novamente o `expo run:android`.
+É necessário deletar a pasta `./android` e rodar novamente o `expo run:android`.
 
 #### Nome do Aplicativo
 
