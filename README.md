@@ -160,7 +160,7 @@ O Link da Build aparecerão no terminal.
 
 Ao Criar uma nova rota, serÃ¡ preciso definir a tipagem em: `/src/@types/navigation.d.ts`.
 
-### Ãšteis
+### Úteis
 
 #### Problemas build, ícones etc.
 
