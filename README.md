@@ -52,7 +52,7 @@ expo login
 
 ### Configs
 
-> DEV_API_URL: para testes em modo dev, PROD_API_URL: Ã© automaticamente configurado apÃ³s realizar o build do APK.
+> DEV_API_URL: para testes em modo dev, PROD_API_URL: automaticamente configurado após realizar o build do APK.
 
 Configs in .env.example file.
 
@@ -71,7 +71,7 @@ npm run prettier-format
 
 ### Gerar APK - MANUALMENTE
 
-#### VersÃ£o Release - ANDROID
+#### Versão Release - ANDROID
 
 > Doc: https://reactnative.dev/docs/signed-apk-android
 
@@ -154,7 +154,7 @@ O Link da Build aparecerão no terminal.
 ### Criando variÃ¡veis no arquivo .env
 
 > https://blog.logrocket.com/understanding-react-native-env-variables/#what-node-env
-> Ao Criar uma nova variÃ¡vel no arquivo, serÃ¡ preciso definir a tipagem em: `/src/@types/env.d.ts`.
+> Ao Criar uma nova variável no arquivo, serÃ¡ preciso definir a tipagem em: `/src/@types/env.d.ts`.
 
 ### Criando novas rotas
 
@@ -162,7 +162,7 @@ Ao Criar uma nova rota, serÃ¡ preciso definir a tipagem em: `/src/@types/navig
 
 ### Ãšteis
 
-#### Problemas build, Ã­cones etc.
+#### Problemas build, ícones etc.
 
 Ã‰ necessÃ¡rio deletar a pasta `./android` e rodar novamente o `expo run:android`.
 
